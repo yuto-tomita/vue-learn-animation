@@ -12,9 +12,11 @@
     "vue-router": "4"
   },
   "devDependencies": {
+    "@types/animejs": "^3.1.4",
     "@typescript-eslint/eslint-plugin": "^5.22.0",
     "@typescript-eslint/parser": "^5.22.0",
     "@vitejs/plugin-vue": "^2.3.3",
+    "animejs": "^3.2.1",
     "eslint": "^8.14.0",
     "eslint-plugin-vue": "^8.7.1",
     "sass": "^1.53.0",
